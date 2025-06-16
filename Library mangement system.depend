@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1581770874 source:c:\users\ayazu\documents\library mangement system\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1581814752 source:e:\projects\oop projects\first semester\ayaaz project\library mangement system\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
